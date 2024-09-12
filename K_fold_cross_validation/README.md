@@ -1,4 +1,4 @@
-🧮 K-Fold Cross Validation
+<h1 align="center"> 🧮 K-Fold Cross Validation </h1>
 
 # 📖 Overview
 
